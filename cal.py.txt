@@ -1,8 +1,9 @@
 
 
-def add( ):
-#please take input from user
-#return addition of the two number 
+def add():
+    x=int(input("Enter your 1st number))
+    y=int(input("Enter your 2nd number))
+    return(x+y)
     
 def subtract(): 
     #please take input from user
