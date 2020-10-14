@@ -18,8 +18,9 @@ def multiply():
      
  
 def divide(): 
-    #please take input from user
-    #return division of the two number 
+    x=int(input("Enter your 1st number))
+    y=int(input("Enter your 2nd number))
+    return(x/y) 
 
 
 #complete the code  using if else statement for calculator
