@@ -12,8 +12,10 @@ def subtract():
     
 
 def multiply(): 
-    #please take input from user
-    #return multiplication of the two number 
+    x=int(input("Enter your 1st number))
+    y=int(input("Enter your 2nd number))
+    return(x*y)
+     
  
 def divide(): 
     #please take input from user
